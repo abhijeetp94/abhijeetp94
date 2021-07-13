@@ -3,15 +3,19 @@
 ### 🛠 &nbsp;About
 <hr>
 
-- 🔭 I’m currently pursuing my B.Tech. Majors in Computer Science and Engineering from MNNIT Allahabad 
+- 💡 &nbsp; A web and computer software developer who is always excited about learning new technologies.
+- 🔭 I’m currently pursuing my B.Tech. Majors in Computer Science and Engineering from MNNIT Allahabad. 
+- 🌱 I’m working to enhance my skills in Data Structures, Algorithms and Object Oriented Programming.
 - ✉️ You can reach out to me via email at p.abhijeetp94@gmail.com.
-<!-- - 🌱 I’m currently learning ...
+- ⚡ Fun fact: I'm funny.
+<!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
 
 <img alt="Night Coding" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="40%" width="40%" align="right"/>
 
