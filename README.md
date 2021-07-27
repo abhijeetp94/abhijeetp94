@@ -39,7 +39,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=kalilinux)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/-Adbode%20Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat&logo=adobepremierepro)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
