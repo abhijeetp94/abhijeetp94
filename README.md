@@ -46,7 +46,7 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/AnuragGupta806">
+<a href="https://github.com/abhijeetp94">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhijeetp94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhijeetp94&layout=compact&langs_count=8&theme=algolia"/>
 </a>
