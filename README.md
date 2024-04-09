@@ -3,9 +3,10 @@
 ### 🛠 &nbsp;About
 <hr>
 
-- 💡 &nbsp; A web and computer software developer who is always excited about learning new technologies.
-- 🔭 I’m currently pursuing my B.Tech. Majors in Computer Science and Engineering from MNNIT Allahabad. 
-- 🌱 I’m working to enhance my skills in Data Structures, Algorithms and Object Oriented Programming.
+- 💡 A Software Engineer who is always excited about learning new technologies.
+- 🔭 Currently Working at Salesforce as an AMTS.
+- 🔭 Completed my B.Tech. Majors in Computer Science and Engineering from MNNIT Allahabad. 
+- 🌱 I’m working to enhance my Data Structures, Algorithms and Object Oriented Programming skills.
 - ✉️ You can reach out to me via email at p.abhijeetp94@gmail.com.
 - ⚡ Fun fact: I'm funny.
 <!-- 
