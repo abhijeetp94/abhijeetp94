@@ -4,7 +4,8 @@
 <hr>
 
 - 💡 A Software Engineer who is always excited about learning new technologies.
-- 🔭 Currently Working at Salesforce as an AMTS.
+- 🔭 Currently Working at Intuit as Software Engineer 2, mostly on agentic AI.
+- 🔭 Previously Worked at Salesforce as AMTS, which was mainly security related development.
 - 🔭 Completed my B.Tech. Majors in Computer Science and Engineering from MNNIT Allahabad. 
 - 🌱 I’m working to enhance my Data Structures, Algorithms and Object Oriented Programming skills.
 - ✉️ You can reach out to me via email at p.abhijeetp94@gmail.com.
@@ -42,6 +43,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=kalilinux)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat&logo=adobepremierepro)&nbsp;
+This list is pretty much outdated, will update later :P
 
 ### ⚙️ &nbsp;GitHub Analytics
 <hr>
